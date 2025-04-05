@@ -2,7 +2,7 @@
 Aspirante a desenvolvedor de software, sou apaixonado pela sensação que tenho quando consigo resolver ou criar alguma coisa com tecnologia.
 - 🔭 Estudando desenvolvimento backend.
 - 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas.
-- 👨‍🎓 Cursando Ciência da Computação.
+- 👨‍🎓 Cursando Sistemas de Informação.
  ##
 <div style="display: inline_block"><br>
   <a href="https://github.com/moisesdeus">
